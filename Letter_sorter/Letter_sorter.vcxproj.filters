@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="E:\Marcin Backup\Marcin\Stas\source\repos\Letter_sorter\Letter_sorter\main.c">
+    <ClCompile Include="main.c">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="E:\Marcin Backup\Marcin\Stas\source\repos\Letter_sorter\Letter_sorter\ArrManager.h">
+    <ClInclude Include="ArrManager.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
   </ItemGroup>

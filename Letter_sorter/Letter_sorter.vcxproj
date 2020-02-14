@@ -138,10 +138,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="E:\Marcin Backup\Marcin\Stas\source\repos\Letter_sorter\Letter_sorter\main.c" />
+    <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="E:\Marcin Backup\Marcin\Stas\source\repos\Letter_sorter\Letter_sorter\ArrManager.h" />
+    <ClInclude Include="ArrManager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
